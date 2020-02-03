@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 JAN 2020 12:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  5 DEC 2019 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**notes.tex
-(./notes.tex
+**note.tex
+(./note.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -751,13 +751,13 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip47
 )
-Package hyperref Info: Option `unicode' set `true' on input line 29.
+Package hyperref Info: Option `unicode' set `true' on input line 30.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 29.
+Package hyperref Info: Option `breaklinks' set `true' on input line 30.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
@@ -787,56 +787,36 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip48
 \thanksmargin=\skip49
 \droptitle=\skip50
-) (/usr/local/texlive/2017/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
-\fancy@headwidth=\skip51
-\f@ncyO@elh=\skip52
-\f@ncyO@erh=\skip53
-\f@ncyO@olh=\skip54
-\f@ncyO@orh=\skip55
-\f@ncyO@elf=\skip56
-\f@ncyO@erf=\skip57
-\f@ncyO@olf=\skip58
-\f@ncyO@orf=\skip59
-)
+) (./note.aux)
+\openout1 = `note.aux'.
 
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 89.
-
-
-Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 90.
-
-(./notes.aux)
-\openout1 = `notes.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 92.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 88.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 92.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 88.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 92.
+LaTeX Info: Redefining \microtypecontext on input line 88.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -885,7 +865,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 92.
+Package hyperref Info: Link coloring OFF on input line 88.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -893,12 +873,12 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count115
 )
-LaTeX Info: Redefining \ref on input line 92.
-LaTeX Info: Redefining \pageref on input line 92.
-LaTeX Info: Redefining \nameref on input line 92.
-(./notes.out) (./notes.out)
+LaTeX Info: Redefining \ref on input line 88.
+LaTeX Info: Redefining \pageref on input line 88.
+LaTeX Info: Redefining \nameref on input line 88.
+(./note.out) (./note.out)
 \@outlinefile=\write3
-\openout3 = `notes.out'.
+\openout3 = `note.out'.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -928,83 +908,141 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 93.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 103.
+
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 93.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 103.
+
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 93.
-
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 103
+.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 93.
-
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 103
+.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 93.
+(Font)              <10> on input line 103.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 93.
+(Font)              <7> on input line 103.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 93.
-LaTeX Font Info:    Try loading font information for U+msa on input line 93.
+(Font)              <5> on input line 103.
+LaTeX Font Info:    Try loading font information for U+msa on input line 103.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 93.
+LaTeX Font Info:    Try loading font information for U+msb on input line 103.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 102.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 102.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 102.
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 109.
+) <p1.png, id=48, 579.16376pt x 576.1525pt>
+File: p1.png Graphic file (type png)
+<use p1.png>
+Package pdftex.def Info: p1.png used on input line 107.
+(pdftex.def)             Requested size: 142.2631pt x 141.52344pt.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 126.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [1
+) <p2.png, id=50, 574.145pt x 437.635pt>
+File: p2.png Graphic file (type png)
+<use p2.png>
+Package pdftex.def Info: p2.png used on input line 135.
+(pdftex.def)             Requested size: 142.25682pt x 108.43352pt.
+[1
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-
-Overfull \hbox (63.78189pt too wide) in paragraph at lines 357--359
-[]\T1/lmr/m/n/10 (-20) Part-of-speech recog-ni-tion: take a sen-tence as in-put
-, as-sign a part-of-speech (Noun/Verb/Preposition/Adverb/Adjective)
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./p1.pn
+g> <./p2.png>] [2]
+Underfull \hbox (badness 1067) in paragraph at lines 261--266
+[]$\OML/lmm/m/it/10 I\OT1/lmr/m/n/10 (+20) (\OML/lmm/m/it/10 x \OT1/lmr/m/n/10 
+(+20) + \OML/lmm/m/it/10 u; y \OT1/lmr/m/n/10 (+20) + \OML/lmm/m/it/10 v\OT1/lm
+r/m/n/10 (+20) ) \OMS/lmsy/m/n/10 ^^Y \OML/lmm/m/it/10 I \OT1/lmr/m/n/10 (+20) 
++ \OML/lmm/m/it/10 I[]u \OT1/lmr/m/n/10 (+20) + \OML/lmm/m/it/10 I[]v$ \T1/lmr/
+m/n/10 (+20) where $\OML/lmm/m/it/10 I[] \OT1/lmr/m/n/10 (+20) = []$\T1/lmr/m/n
+/10 (+20) , so $\OML/lmm/m/it/10 E\OT1/lmr/m/n/10 (+20) (\OML/lmm/m/it/10 u; v\
+OT1/lmr/m/n/10 (+20) ) \OMS/lmsy/m/n/10 ^^Y \OT1/lmr/m/n/10 (+20) [\OML/lmm/m/i
+t/10 u; v\OT1/lmr/m/n/10 (+20) ]\OML/lmm/m/it/10 A\OT1/lmr/m/n/10 (+20) [\OML/l
+mm/m/it/10 u; v\OT1/lmr/m/n/10 (+20) ][]$ \T1/lmr/m/n/10 (+20) where
  []
 
-[4] [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 583.
-[6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 583.
-(./notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 583.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 583.
-Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 98D2717211CCE6120E06E0AD03DEA2B2;5286.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 583.
+<p3.png, id=86, 544.0325pt x 447.6725pt>
+File: p3.png Graphic file (type png)
+<use p3.png>
+Package pdftex.def Info: p3.png used on input line 328.
+(pdftex.def)             Requested size: 142.26694pt x 117.06836pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<p4.png, id=87, 528.97626pt x 529.98pt>
+File: p4.png Graphic file (type png)
+<use p4.png>
+Package pdftex.def Info: p4.png used on input line 336.
+(pdftex.def)             Requested size: 142.26048pt x 142.53043pt.
+[3] <p5.png, id=100, 574.145pt x 568.1225pt>
+File: p5.png Graphic file (type png)
+<use p5.png>
+Package pdftex.def Info: p5.png used on input line 375.
+(pdftex.def)             Requested size: 142.25682pt x 140.76462pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./p3.png> <./p4.png>] <p6.png, id=110, 565.11125pt x 526.96875pt>
+File: p6.png Graphic file (type png)
+<use p6.png>
+Package pdftex.def Info: p6.png used on input line 457.
+(pdftex.def)             Requested size: 142.26047pt x 132.65852pt.
+[5 <./p5.png>] <p7.png, id=118, 727.71875pt x 546.04pt>
+File: p7.png Graphic file (type png)
+<use p7.png>
+Package pdftex.def Info: p7.png used on input line 489.
+(pdftex.def)             Requested size: 142.26546pt x 106.74815pt.
+<p8.png, id=119, 772.8875pt x 528.97626pt>
+File: p8.png Graphic file (type png)
+<use p8.png>
+Package pdftex.def Info: p8.png used on input line 496.
+(pdftex.def)             Requested size: 142.26256pt x 97.3667pt.
+<p9.png, id=120, 726.715pt x 532.99126pt>
+File: p9.png Graphic file (type png)
+<use p9.png>
+Package pdftex.def Info: p9.png used on input line 505.
+(pdftex.def)             Requested size: 142.25774pt x 104.33545pt.
+[6 <./p6.png> <./p7.png> <./p8.png>] <p10.png, id=128, 512.91624pt x 110.4125pt
+>
+File: p10.png Graphic file (type png)
+<use p10.png>
+Package pdftex.def Info: p10.png used on input line 532.
+(pdftex.def)             Requested size: 142.26158pt x 30.62381pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 548.
+[7 <./p9.png> <./p10.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 548.
+(./note.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 548.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 548.
+Package rerunfilecheck Info: File `note.out' has not changed.
+(rerunfilecheck)             Checksum: D8B480D1BBD0621B7E03866BA3A7A514;1551.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 548.
  ) 
 Here is how much of TeX's memory you used:
- 12593 strings out of 492995
- 183022 string characters out of 6132704
- 287865 words of memory out of 5000000
- 15859 multiletter control sequences out of 15000+600000
- 70093 words of font info for 86 fonts, out of 8000000 for 9000
+ 12410 strings out of 492995
+ 179879 string characters out of 6132704
+ 282710 words of memory out of 5000000
+ 15703 multiletter control sequences out of 15000+600000
+ 44687 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,13n,43p,471b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2017/t
-exmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2017/texmf-dist/
+ 32i,8n,38p,258b,389s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
+cal/texlive/2017/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/20
+17/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2017/texmf-dist/
 fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/
 dvips/lm/lm-mathex.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/lm/l
 m-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmbx10.pfb>
@@ -1016,18 +1054,14 @@ l/texlive/2017/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/
 ic/lm/lmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr17
 .pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr5.pfb></usr/l
 ocal/texlive/2017/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2017/texm
-f-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2017/texmf-dist/fon
-ts/type1/public/lm/lmro10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/p
-ublic/lm/lmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/l
-msy5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pf
-b></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7
-.pfb>
-Output written on notes.pdf (6 pages, 288079 bytes).
+/2017/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2017/texm
+f-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2017/texmf-dist/fon
+ts/type1/public/lm/lmsy5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
+blic/lm/lmsy7.pfb>
+Output written on note.pdf (7 pages, 2579028 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 226 compressed objects within 3 object streams
- 57 named destinations out of 1000 (max. 500000)
- 16577 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 204 PDF objects out of 1000 (max. 8388607)
+ 159 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 8331 words of extra memory for PDF output out of 10000 (max. 10000000)
 
